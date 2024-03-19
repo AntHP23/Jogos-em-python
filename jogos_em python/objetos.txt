@@ -1,0 +1,6 @@
+lata
+livro
+garfo
+porta
+cinto
+taco
